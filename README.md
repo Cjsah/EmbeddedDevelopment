@@ -4,7 +4,7 @@ Embedded Development Learning Record
 
 ### Robomaster 2019 Official Infantry Robot Open Source Code
 * [Project Code](https://github.com/OrangeFlavoredDerek/EmbeddedDevelopment/tree/main/RM2019Infantry)
-* [Mind Map of Project](https://github.com/OrangeFlavoredDerek/EmbeddedDevelopment/blob/main/SH_RM_2019InfantryProgram.emmx)
+* [Mind Map of Project](https://github.com/OrangeFlavoredDerek/EmbeddedDevelopment/tree/main/RM2019Infantry)
 * [Code interpretation](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=8361)
 
 ### PID Algorithm
