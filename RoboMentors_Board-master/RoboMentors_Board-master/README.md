@@ -5,7 +5,7 @@
 RoboMentors_Board是一款面向机器人DIY的开源主控开发板。  
 芯片为STM32F427IIH6，拥有丰富的扩展接口和通信接口，板载IMU传感器。  
 兼容Dji RoboMaster的M3508、 M2006、GM6020直流无刷减速电机以及遥控器。   
-支持Jetson Nano、树莓派、妙算等产品的串口通讯。
+支持Jetson Nano、树莓派、妙算等产品的串口通讯
 
 ## 硬件模块购买地址
 
