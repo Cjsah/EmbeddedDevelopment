@@ -7,7 +7,8 @@ Embedded Development Learning Record
 * [Mind Map of Project](https://github.com/OrangeFlavoredDerek/EmbeddedDevelopment/tree/main/RM2019Infantry)
 * [Code interpretation](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=8361)
 
-### Stm32f427 Motor Control Code
+### Stm32f427STM32F427IIH6
+* [RoboMentors_Board](https://github.com/OrangeFlavoredDerek/EmbeddedDevelopment/tree/main/RoboMentors_Board-master/RoboMentors_Board-master)
 
 ### PID Algorithm
 * [PID](https://github.com/OrangeFlavoredDerek/EmbeddedDevelopment/tree/main/PID)
